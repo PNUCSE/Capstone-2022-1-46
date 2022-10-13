@@ -1,0 +1,17 @@
+package BlockChain.REC;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class RecApplication {
+
+	public static void main(String[] args) {
+
+		SpringApplication.run(RecApplication.class, args);
+//		System.out.println("Working Directory = " + System.getProperty("user.dir"));
+
+
+	}
+
+}
