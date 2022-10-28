@@ -106,6 +106,9 @@
 <hr>
 
 ### 4. 소개 및 시연 영상
+[![부산대학교 정보컴퓨터공학부 소개](http://img.youtube.com/vi/df4CwBAZTM0/0.jpg)](https://youtu.be/df4CwBAZTM0)    
+
+
 <hr>
 
 ### 5. 사용법
